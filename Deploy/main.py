@@ -11,7 +11,7 @@ import numpy as np
 
 app = Flask(__name__)
 
-path_name = 'C:/Users/AMARA NYANZI/OneDrive/Desktop/Machine Learning/SavedModel/fifthy.pkl'
+path_name = '../Deploy/fifthy.pkl'
 with open(path_name, 'rb') as file:
     data = pickle.load(file)
 
