@@ -11,5 +11,5 @@ tldextract
 ipykernel
 waitress==2.1.2
 numpy
-xgboost==2.0.2
+xgboost
 
