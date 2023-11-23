@@ -4,6 +4,7 @@
 Flask 
 
 # etc installs
+pip==23.3.1
 dill==0.3.7
 urllib3==2.0.7
 regex==2023.10.3
@@ -11,5 +12,5 @@ tldextract
 ipykernel
 waitress==2.1.2
 numpy
-xgboost
+xgboost==2.0.2
 
